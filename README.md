@@ -80,7 +80,7 @@ git clone https://github.com/danurbanowicz/eleventy-netlify-boilerplate.git my-b
 ### 2. Navigate to the directory
 
 ```
-cd my-blog-name
+
 ```
 
 Specifically have a look at `.eleventy.js` to see if you want to configure any Eleventy options differently.
@@ -103,8 +103,7 @@ npx eleventy
 
 Or build automatically when a template changes:
 ```
-npx eleventy --watch
-```
+
 
 Or in debug mode:
 ```
